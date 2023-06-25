@@ -3,7 +3,14 @@ import { fileURLToPath } from "node:url";
 
 import type { PresetAsset } from "presetter-types";
 
-const DIR = dirname(fileURLToPath(import.meta.url));
+let DIR: string;
+
+if (typeof __dirname === "undefined") {
+  // @ts-ignore
+  DIR = dirname(fileURLToPath(import.meta.url));
+} else {
+  DIR = __dirname;
+}
 
 // paths to the template directory
 const TEMPLATES = resolve(DIR, "..", "templates");
