@@ -1,3 +1,10 @@
+## [0.1.1-develop.11](https://git.lumeweb.com/LumeWeb/node-library-preset/compare/v0.1.1-develop.10...v0.1.1-develop.11) (2023-06-25)
+
+
+### Bug Fixes
+
+* add .releaserc.json to gitignore ([a892d35](https://git.lumeweb.com/LumeWeb/node-library-preset/commit/a892d3557ee419725cae6ce9f35293d98b6719e4))
+
 ## [0.1.1-develop.10](https://git.lumeweb.com/LumeWeb/node-library-preset/compare/v0.1.1-develop.9...v0.1.1-develop.10) (2023-06-25)
 
 
