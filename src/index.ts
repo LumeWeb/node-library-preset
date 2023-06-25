@@ -19,7 +19,7 @@ export default async function (): Promise<PresetAsset> {
   return {
     extends: ["presetter-preset-strict"],
     template: {
-      ".github/workflows/ci.yml": resolve(TEMPLATES, "ci.yml"),
+      ".github/workflows/ci.yml": resolve(TEMPLATES, "ci.yml.raw"),
       ".releaserc.json": resolve(TEMPLATES, ".releaserc.json"),
     },
     noSymlinks: [".github/workflows/ci.yml"],
