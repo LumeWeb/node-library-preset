@@ -1,6 +1,7 @@
 {
     "preset": [
-        "presetter-preset-strict"
+        "presetter-preset-strict",
+        "presetter-preset-hybrid"
     ],
     "config": {
         "prettier": {

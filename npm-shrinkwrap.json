@@ -14,11 +14,9 @@
                 "@semantic-release/changelog": "^6.0.3",
                 "@semantic-release/git": "^10.0.1",
                 "presetter": "^4.0.1",
+                "presetter-preset-hybrid": "^4.0.1",
                 "presetter-preset-strict": "^4.0.1",
                 "semantic-release": "^21.0.5"
-            },
-            "peerDependencies": {
-                "presetter-preset-strict": "workspace:*"
             }
         },
         "node_modules/@ampproject/remapping": {
@@ -15128,6 +15126,19 @@
                 "tsconfig-paths": "^4.0.0",
                 "tsx": "^3.12.0",
                 "typescript": ">=4.7.0"
+            }
+        },
+        "node_modules/presetter-preset-hybrid": {
+            "version": "4.0.1",
+            "resolved": "https://registry.npmjs.org/presetter-preset-hybrid/-/presetter-preset-hybrid-4.0.1.tgz",
+            "integrity": "sha512-0GxC2QrR3cTcRQsP+PwQ+X1O2Fd/rGH2llNqI2CKePbsWZQxRT5YIsW4YsLsC82tkxhyeyrSjzjLS6hsrYf3WA==",
+            "dev": true,
+            "dependencies": {
+                "presetter-types": "4.0.1"
+            },
+            "peerDependencies": {
+                "presetter": "4.0.1",
+                "presetter-preset-esm": "4.0.1"
             }
         },
         "node_modules/presetter-preset-strict": {
