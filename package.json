@@ -23,5 +23,9 @@
     },
     "dependencies": {
         "presetter-types": "^4.0.1"
-    }
+    },
+    "files": [
+        "lib/**",
+        "templates/**"
+    ]
 }
