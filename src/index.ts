@@ -2,16 +2,7 @@ import { resolve } from "node:path";
 
 import type { PresetAsset } from "presetter-types";
 
-let DIR: string;
-
-if (typeof __dirname === "undefined") {
-  DIR = (await import("./path.js")).default();
-} else {
-  DIR = __dirname;
-}
-
 // paths to the template directory
-const TEMPLATES = resolve(DIR, "..", "templates");
 export const DEFAULT_VARIABLE = {
   source: "src",
 };
@@ -21,6 +12,16 @@ export const DEFAULT_VARIABLE = {
  * @returns list of preset templates
  */
 export default async function (): Promise<PresetAsset> {
+  let DIR: string;
+
+  if (typeof __dirname === "undefined") {
+    DIR = (await import("./path.js")).default();
+  } else {
+    DIR = __dirname;
+  }
+
+  const TEMPLATES = resolve(DIR, "..", "templates");
+
   return {
     extends: ["presetter-preset-strict"],
     template: {
