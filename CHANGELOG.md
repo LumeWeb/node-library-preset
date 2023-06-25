@@ -1,3 +1,11 @@
+## [0.1.1-develop.8](https://git.lumeweb.com/LumeWeb/node-library-preset/compare/v0.1.1-develop.7...v0.1.1-develop.8) (2023-06-25)
+
+
+### Bug Fixes
+
+* releaserc missing from templates ([0ba3e5e](https://git.lumeweb.com/LumeWeb/node-library-preset/commit/0ba3e5e5f5ef3fc790a75ff9f8fffb431042bcd1))
+* syntax error ([7bba835](https://git.lumeweb.com/LumeWeb/node-library-preset/commit/7bba8356e0ecaa426bb3afcc984607bf21a5474f))
+
 ## [0.1.1-develop.7](https://git.lumeweb.com/LumeWeb/node-library-preset/compare/v0.1.1-develop.6...v0.1.1-develop.7) (2023-06-25)
 
 
