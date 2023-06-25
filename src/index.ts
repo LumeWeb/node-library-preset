@@ -1,13 +1,11 @@
-import { dirname, resolve } from "node:path";
-import { fileURLToPath } from "node:url";
+import { resolve } from "node:path";
 
 import type { PresetAsset } from "presetter-types";
 
 let DIR: string;
 
 if (typeof __dirname === "undefined") {
-  // @ts-ignore
-  DIR = dirname(fileURLToPath(import.meta.url));
+  DIR = (await import("./path.js")).default();
 } else {
   DIR = __dirname;
 }
