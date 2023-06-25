@@ -1,3 +1,10 @@
+## [0.1.1-develop.9](https://git.lumeweb.com/LumeWeb/node-library-preset/compare/v0.1.1-develop.8...v0.1.1-develop.9) (2023-06-25)
+
+
+### Bug Fixes
+
+* don't let presetter try to parse the file ([7bb0961](https://git.lumeweb.com/LumeWeb/node-library-preset/commit/7bb09618851891d64b320c4651c545e097d8479d))
+
 ## [0.1.1-develop.8](https://git.lumeweb.com/LumeWeb/node-library-preset/compare/v0.1.1-develop.7...v0.1.1-develop.8) (2023-06-25)
 
 
