@@ -1,0 +1,28 @@
+{
+    "name": "@lumeweb/node-library-preset",
+    "version": "0.1.0",
+    "repository": {
+        "type": "git",
+        "url": "gitea@git.lumeweb.com:LumeWeb/node-library-preset.git"
+    },
+    "devDependencies": {
+        "@semantic-release/changelog": "^6.0.3",
+        "@semantic-release/git": "^10.0.1",
+        "presetter": "^4.0.1",
+        "presetter-preset-strict": "^4.0.1",
+        "semantic-release": "^21.0.5"
+    },
+    "readme": "ERROR: No README data found!",
+    "_id": "@lumeweb/node-library-preset@0.1.0",
+    "scripts": {
+        "prepare": "presetter bootstrap",
+        "build": "run build",
+        "semantic-release": "semantic-release"
+    },
+    "dependencies": {
+        "presetter-types": "^4.0.1"
+    },
+    "peerDependencies": {
+        "presetter-preset-strict": "workspace:*"
+    }
+}
