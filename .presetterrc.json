@@ -3,13 +3,6 @@
         "presetter-preset-strict"
     ],
     "config": {
-        "tsconfig": {
-            "compilerOptions": {
-                "lib": [
-                    "ES2021"
-                ]
-            }
-        },
         "prettier": {
             "singleQuote": false
         }
