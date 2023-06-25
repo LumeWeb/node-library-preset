@@ -30,7 +30,7 @@ export default async function (): Promise<PresetAsset> {
       },
       tsconfig: {
         compilerOptions: {
-          lib: ["ES2021"],
+          lib: ["ES2021", "dom"],
         },
       },
     },
