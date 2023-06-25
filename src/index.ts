@@ -28,6 +28,7 @@ export default async function (): Promise<PresetAsset> {
       prettier: {
         singleQuote: false,
       },
+      gitignore: [".releaserc.json"],
       tsconfig: {
         compilerOptions: {
           lib: ["ES2021", "dom"],
