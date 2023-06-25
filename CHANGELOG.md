@@ -1,3 +1,10 @@
+## [0.1.1-develop.10](https://git.lumeweb.com/LumeWeb/node-library-preset/compare/v0.1.1-develop.9...v0.1.1-develop.10) (2023-06-25)
+
+
+### Bug Fixes
+
+* add dom to ts compiler ([c3c172a](https://git.lumeweb.com/LumeWeb/node-library-preset/commit/c3c172a5bcd878fde5b368f7aa4050cced7971af))
+
 ## [0.1.1-develop.9](https://git.lumeweb.com/LumeWeb/node-library-preset/compare/v0.1.1-develop.8...v0.1.1-develop.9) (2023-06-25)
 
 
