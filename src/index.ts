@@ -27,6 +27,11 @@ export default async function (): Promise<PresetAsset> {
       prettier: {
         singleQuote: false,
       },
+      tsconfig: {
+        compilerOptions: {
+          lib: ["ES2021"],
+        },
+      },
     },
   };
 }
