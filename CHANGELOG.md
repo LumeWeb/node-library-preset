@@ -1,3 +1,10 @@
+## [0.1.1-develop.13](https://git.lumeweb.com/LumeWeb/node-library-preset/compare/v0.1.1-develop.12...v0.1.1-develop.13) (2023-06-25)
+
+
+### Bug Fixes
+
+* add [@ts-ignore](https://git.lumeweb.com/ts-ignore) to import.meta.url ([bdd2b66](https://git.lumeweb.com/LumeWeb/node-library-preset/commit/bdd2b667250024e4ddfe028726778dba4633312f))
+
 ## [0.1.1-develop.12](https://git.lumeweb.com/LumeWeb/node-library-preset/compare/v0.1.1-develop.11...v0.1.1-develop.12) (2023-06-25)
 
 
