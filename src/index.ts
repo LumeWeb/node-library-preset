@@ -19,7 +19,7 @@ export default async function (): Promise<PresetAsset> {
   return {
     extends: ["presetter-preset-strict"],
     template: {
-      ".circleci/config.yml": resolve(TEMPLATES, "circleci.yml"),
+      ".github/workflows/ci.yml": resolve(TEMPLATES, "ci.yml"),
     },
     variable: DEFAULT_VARIABLE,
     supplementaryConfig: {
