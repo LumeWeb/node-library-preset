@@ -1,3 +1,10 @@
+## [0.1.1-develop.4](https://git.lumeweb.com/LumeWeb/node-library-preset/compare/v0.1.1-develop.3...v0.1.1-develop.4) (2023-06-25)
+
+
+### Bug Fixes
+
+* add missing files property ([7a1e88e](https://git.lumeweb.com/LumeWeb/node-library-preset/commit/7a1e88e8dc483e50a26eb5a85daf7e42413a0ba3))
+
 ## [0.1.1-develop.3](https://git.lumeweb.com/LumeWeb/node-library-preset/compare/v0.1.1-develop.2...v0.1.1-develop.3) (2023-06-25)
 
 
