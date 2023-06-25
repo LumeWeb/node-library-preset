@@ -1,3 +1,10 @@
+## [0.1.1-develop.5](https://git.lumeweb.com/LumeWeb/node-library-preset/compare/v0.1.1-develop.4...v0.1.1-develop.5) (2023-06-25)
+
+
+### Bug Fixes
+
+* dont symlink ci file ([87afb2c](https://git.lumeweb.com/LumeWeb/node-library-preset/commit/87afb2cc64344dba11c06c4c73ab245547a383a6))
+
 ## [0.1.1-develop.4](https://git.lumeweb.com/LumeWeb/node-library-preset/compare/v0.1.1-develop.3...v0.1.1-develop.4) (2023-06-25)
 
 
