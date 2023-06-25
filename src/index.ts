@@ -21,6 +21,7 @@ export default async function (): Promise<PresetAsset> {
     template: {
       ".github/workflows/ci.yml": resolve(TEMPLATES, "ci.yml"),
     },
+    noSymlinks: [".github/workflows/ci.yml"],
     variable: DEFAULT_VARIABLE,
     supplementaryConfig: {
       prettier: {
