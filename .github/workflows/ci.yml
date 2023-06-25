@@ -1,6 +1,12 @@
 name: Build/Publish
 
-on: push
+on:
+    push:
+        branches:
+            - master
+            - develop
+            - develop-*
+
 jobs:
     main:
         uses: lumeweb/github-node-deploy-workflow/.github/workflows/main.yml@master
