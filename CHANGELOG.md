@@ -1,3 +1,10 @@
+## [0.1.1-develop.3](https://git.lumeweb.com/LumeWeb/node-library-preset/compare/v0.1.1-develop.2...v0.1.1-develop.3) (2023-06-25)
+
+
+### Bug Fixes
+
+* add missing type and main ([9f0cdc2](https://git.lumeweb.com/LumeWeb/node-library-preset/commit/9f0cdc22b635475aa025cdac656e0c31db370af3))
+
 ## [0.1.1-develop.2](https://git.lumeweb.com/LumeWeb/node-library-preset/compare/v0.1.1-develop.1...v0.1.1-develop.2) (2023-06-25)
 
 
