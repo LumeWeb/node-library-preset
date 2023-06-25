@@ -1,3 +1,15 @@
+## [0.1.1-develop.7](https://git.lumeweb.com/LumeWeb/node-library-preset/compare/v0.1.1-develop.6...v0.1.1-develop.7) (2023-06-25)
+
+
+### Bug Fixes
+
+* add ES2021 to ts compiler ([c15b279](https://git.lumeweb.com/LumeWeb/node-library-preset/commit/c15b279d637ac5d76b8d42f1ec83403a9dcf721c))
+
+
+### Reverts
+
+* Revert "fix: add ES2021 to ts compiler" ([2183387](https://git.lumeweb.com/LumeWeb/node-library-preset/commit/2183387a3fa4b36528db7b9d4236433114b486e4))
+
 ## [0.1.1-develop.6](https://git.lumeweb.com/LumeWeb/node-library-preset/compare/v0.1.1-develop.5...v0.1.1-develop.6) (2023-06-25)
 
 
