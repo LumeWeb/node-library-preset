@@ -1,3 +1,11 @@
+## [0.1.1-develop.12](https://git.lumeweb.com/LumeWeb/node-library-preset/compare/v0.1.1-develop.11...v0.1.1-develop.12) (2023-06-25)
+
+
+### Bug Fixes
+
+* add __dirname compatibility ([60f45cb](https://git.lumeweb.com/LumeWeb/node-library-preset/commit/60f45cb8d544de3c77be90359bdce9ea98422040))
+* switch to hybrid building ([7a58630](https://git.lumeweb.com/LumeWeb/node-library-preset/commit/7a58630cdaf69e9830a03ca7c2bc6fecd188a2f0))
+
 ## [0.1.1-develop.11](https://git.lumeweb.com/LumeWeb/node-library-preset/compare/v0.1.1-develop.10...v0.1.1-develop.11) (2023-06-25)
 
 
