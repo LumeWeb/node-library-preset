@@ -1,0 +1,7 @@
+name: Build/Publish
+
+on: push
+jobs:
+    main:
+        uses: lumeweb/github-node-deploy-workflow/blob/master/.github/workflows/main.yml@master
+        secrets: inherit
