@@ -29,6 +29,10 @@
                         "release": "patch"
                     },
                     {
+                        "type": "dep",
+                        "release": "patch"
+                    },
+                    {
                         "type": "minor",
                         "release": "patch"
                     }
