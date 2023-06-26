@@ -19,9 +19,8 @@
         "@semantic-release/changelog": "^6.0.3",
         "@semantic-release/git": "^10.0.1",
         "presetter": "^4.0.1",
-        "presetter-preset-hybrid": "^4.0.1",
-        "presetter-preset-strict": "^4.0.1",
-        "semantic-release": "^21.0.5"
+        "semantic-release": "^21.0.5",
+        "presetter-types": "^4.0.1"
     },
     "readme": "ERROR: No README data found!",
     "_id": "@lumeweb/node-library-preset@0.1.0",
@@ -31,7 +30,8 @@
         "semantic-release": "semantic-release"
     },
     "dependencies": {
-        "presetter-types": "^4.0.1"
+        "presetter-preset-hybrid": "^4.0.1",
+        "presetter-preset-strict": "^4.0.1"
     },
     "files": [
         "lib/**",
