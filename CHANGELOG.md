@@ -1,3 +1,10 @@
+# [0.2.0](https://git.lumeweb.com/LumeWeb/node-library-preset/compare/v0.1.1...v0.2.0) (2023-06-26)
+
+
+### Features
+
+* add dep release type for dependency updates ([be51107](https://git.lumeweb.com/LumeWeb/node-library-preset/commit/be51107728290adebd269484f85dde082421d34e))
+
 ## [0.1.1](https://git.lumeweb.com/LumeWeb/node-library-preset/compare/v0.1.0...v0.1.1) (2023-06-25)
 
 
