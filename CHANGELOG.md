@@ -1,3 +1,10 @@
+## [0.2.1](https://git.lumeweb.com/LumeWeb/node-library-preset/compare/v0.2.0...v0.2.1) (2023-06-26)
+
+
+### Bug Fixes
+
+* updated wrong .releaserc.json ([6689cd1](https://git.lumeweb.com/LumeWeb/node-library-preset/commit/6689cd1fc69bbcfce5553b594cd4356d4a6abe29))
+
 # [0.2.0](https://git.lumeweb.com/LumeWeb/node-library-preset/compare/v0.1.1...v0.2.0) (2023-06-26)
 
 
