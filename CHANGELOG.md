@@ -1,3 +1,10 @@
+## [0.2.2](https://git.lumeweb.com/LumeWeb/node-library-preset/compare/v0.2.1...v0.2.2) (2023-06-26)
+
+
+### Bug Fixes
+
+* ensure semantic-release is included on install ([94d90b8](https://git.lumeweb.com/LumeWeb/node-library-preset/commit/94d90b8acdc253eafafff3e20986276fbf5c8d79))
+
 ## [0.2.1](https://git.lumeweb.com/LumeWeb/node-library-preset/compare/v0.2.0...v0.2.1) (2023-06-26)
 
 
