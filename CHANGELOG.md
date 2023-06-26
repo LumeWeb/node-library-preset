@@ -1,3 +1,10 @@
+## [0.2.3](https://git.lumeweb.com/LumeWeb/node-library-preset/compare/v0.2.2...v0.2.3) (2023-06-26)
+
+
+### Bug Fixes
+
+* update prepare script to conditionally run presetter ([034ea89](https://git.lumeweb.com/LumeWeb/node-library-preset/commit/034ea8967104a197e7911637b2691364b23d1efc))
+
 ## [0.2.2](https://git.lumeweb.com/LumeWeb/node-library-preset/compare/v0.2.1...v0.2.2) (2023-06-26)
 
 
