@@ -1,3 +1,10 @@
+## [0.2.5](https://git.lumeweb.com/LumeWeb/node-library-preset/compare/v0.2.4...v0.2.5) (2023-06-27)
+
+
+### Bug Fixes
+
+* add publishConfig ([e5c4f4f](https://git.lumeweb.com/LumeWeb/node-library-preset/commit/e5c4f4f0847aa1100eb516ff3843deec3e4c555c))
+
 ## [0.2.4](https://git.lumeweb.com/LumeWeb/node-library-preset/compare/v0.2.3...v0.2.4) (2023-06-27)
 
 ## [0.2.3](https://git.lumeweb.com/LumeWeb/node-library-preset/compare/v0.2.2...v0.2.3) (2023-06-26)
