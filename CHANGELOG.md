@@ -1,3 +1,5 @@
+## [0.2.4](https://git.lumeweb.com/LumeWeb/node-library-preset/compare/v0.2.3...v0.2.4) (2023-06-27)
+
 ## [0.2.3](https://git.lumeweb.com/LumeWeb/node-library-preset/compare/v0.2.2...v0.2.3) (2023-06-26)
 
 
