@@ -1,6 +1,6 @@
 {
     "name": "@lumeweb/node-library-preset",
-    "version": "0.1.0",
+    "version": "0.2.4",
     "main": "lib/index.js",
     "module": "lib/index.mjs",
     "types": "lib/index.d.ts",
@@ -20,7 +20,6 @@
         "presetter-types": "^4.0.1"
     },
     "readme": "ERROR: No README data found!",
-    "_id": "@lumeweb/node-library-preset@0.1.0",
     "scripts": {
         "prepare": "bash -c 'if command -v presetter &> /dev/null; then presetter bootstrap; fi'",
         "build": "run build",
