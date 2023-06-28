@@ -1,6 +1,6 @@
 {
     "name": "@lumeweb/node-library-preset",
-    "version": "0.2.4",
+    "version": "0.2.5",
     "main": "lib/index.js",
     "module": "lib/index.mjs",
     "types": "lib/index.d.ts",
