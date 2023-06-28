@@ -38,6 +38,7 @@ export default async function (): Promise<PresetAsset> {
       tsconfig: {
         compilerOptions: {
           lib: ["ES2021", "dom"],
+          moduleResolution: "nodenext",
         },
       },
     },
