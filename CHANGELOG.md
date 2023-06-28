@@ -1,3 +1,10 @@
+## [0.2.6](https://git.lumeweb.com/LumeWeb/node-library-preset/compare/v0.2.5...v0.2.6) (2023-06-28)
+
+
+### Bug Fixes
+
+* set moduleResolution to nodenext so package.jsons exports work ([9ddb6a3](https://git.lumeweb.com/LumeWeb/node-library-preset/commit/9ddb6a36bcbaf3ae8f2c651db22bd2e9239c1251))
+
 ## [0.2.5](https://git.lumeweb.com/LumeWeb/node-library-preset/compare/v0.2.4...v0.2.5) (2023-06-27)
 
 
