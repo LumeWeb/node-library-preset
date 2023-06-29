@@ -21,7 +21,7 @@
     },
     "readme": "ERROR: No README data found!",
     "scripts": {
-        "prepare": "bash -c 'if command -v presetter &> /dev/null; then presetter bootstrap; fi'",
+        "prepare": "bash ./prepare.sh",
         "build": "run build",
         "semantic-release": "semantic-release"
     },
@@ -35,7 +35,8 @@
     },
     "files": [
         "lib/**",
-        "templates/**"
+        "templates/**",
+        "prepare.sh"
     ],
     "publishConfig": {
         "access": "public"
