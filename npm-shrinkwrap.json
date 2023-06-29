@@ -1,12 +1,12 @@
 {
     "name": "@lumeweb/node-library-preset",
-    "version": "0.2.6",
+    "version": "0.2.7",
     "lockfileVersion": 3,
     "requires": true,
     "packages": {
         "": {
             "name": "@lumeweb/node-library-preset",
-            "version": "0.2.6",
+            "version": "0.2.7",
             "dependencies": {
                 "@semantic-release/changelog": "^6.0.3",
                 "@semantic-release/git": "^10.0.1",
